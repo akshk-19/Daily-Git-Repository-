@@ -1,52 +1,118 @@
-// This is my daily diary of the progress I am making into this tech world, this repository is the track of all the ideas and their implementation 
-YEAR - 2026
-**JUNE**
-+ 17 -> Begning the git daily diary, already created 4 repo including 1 special repo
-+ 18 -> Idea delibration on project- structured data organization - report generation
-                                                                  - visulaization 
-+ 19 -> Network basics and git README file updation 
-+ 20 -> Cybersecurity and the interesting world inlcuding understanding basics and this emerging technology
-+ 21 -> Updation Readme file and learning MITRE ATT&CK framework
-+ 22->
-+ 23->
-+ 24->
-+ 25->
-+ 26->
-+ 27-> Project desinginig with help of claude and updated tech stack
-+ 28-> REST DAY
-+ 29-> CCNA basics
-+ 30-> Internship half-way benchmark acheived 
-**JULY**
-+ 1 -> Cisco Packet Tracer- DHCP,Static Routing
-+ 2 -> RIP and OSPF configurations
-+ 3 -> AWS cloud
-+ 4 ->
-+ 5 ->
-+ 6 ->
-+ 7 ->
-+ 8 ->
-+ 9 ->
-+ 10 ->
-+ 11 ->
-+ 12 ->
-+ 13 ->
-+ 14 ->
-+ 15 ->
-+ 16 ->
-+ 17 -> 
-+ 18 -> 
-+ 19 -> 
-+ 20 -> 
-+ 21 -> 
-+ 22->
-+ 23->
-+ 24->
-+ 25->
-+ 26->
-+ 27->
-+ 28-> 
-+ 29-> 
-+ 30->
+# 🚀 Daily Dev Diary — 2026
 
+> A day-by-day log of ideas, learning, and implementation as I build my way through the tech world. This repo tracks the journey — from network basics to full project execution.
 
+---
 
+## 📊 Progress Snapshot
+
+| Month | Days Logged | Status |
+|-------|:-----------:|--------|
+| June  | 10 / 30     | 🟢 Internship active |
+| July  | 3 / 31      | 🟡 In progress |
+| August| 0 / 30      | ⚪ Upcoming |
+
+---
+
+## 🗓️ June 2026
+
+| Date | Log |
+|:----:|-----|
+| 17 | 🎬 Began the Git daily diary — created 4 repos, including 1 special repo |
+| 18 | 💡 Idea deliberation: project on **structured data organization → report generation → visualization** |
+| 19 | 🌐 Network basics + README file update |
+| 20 | 🔐 Cybersecurity fundamentals — exploring the emerging field |
+| 21 | 📘 README update + learning the **MITRE ATT&CK** framework |
+| 22 | 🔐 Cybersecurity fundamentals — exploring the emerging field  |
+| 23 | 💡 Idea deliberation |
+| 24 | 🛌 Rest da|
+| 25 | 🖧 CCNA basics |
+| 26 | 🖧 CCNA basics |
+| 27 | 🛠️ Project designing with Claude's help + tech stack finalized |
+| 28 | 🛌 Rest day |
+| 29 | 🖧 CCNA basics |
+| 30 | 🏁 **Internship halfway benchmark achieved** |
+
+---
+
+## 🗓️ July 2026
+
+| Date | Log |
+|:----:|-----|
+| 01 | 🌐 Cisco Packet Tracer — DHCP, Static Routing |
+| 02 | 🔁 RIP and OSPF configurations |
+| 03 | ☁️ AWS Cloud |
+| 04 | — |
+| 05 | — |
+| 06 | — |
+| 07 | — |
+| 08 | — |
+| 09 | — |
+| 10 | — |
+| 11 | — |
+| 12 | — |
+| 13 | — |
+| 14 | — |
+| 15 | — |
+| 16 | — |
+| 17 | — |
+| 18 | — |
+| 19 | — |
+| 20 | — |
+| 21 | — |
+| 22 | — |
+| 23 | — |
+| 24 | — |
+| 25 | — |
+| 26 | — |
+| 27 | — |
+| 28 | — |
+| 29 | — |
+| 30 | — |
+
+---
+
+## 🗓️ August 2026
+
+| Date | Log |
+|:----:|-----|
+| 01 | — |
+| 02 | — |
+| 03 | — |
+| 04 | — |
+| 05 | — |
+| 06 | — |
+| 07 | — |
+| 08 | — |
+| 09 | — |
+| 10 | — |
+| 11 | — |
+| 12 | — |
+| 13 | — |
+| 14 | — |
+| 15 | — |
+| 16 | — |
+| 17 | — |
+| 18 | — |
+| 19 | — |
+| 20 | — |
+| 21 | — |
+| 22 | — |
+| 23 | — |
+| 24 | — |
+| 25 | — |
+| 26 | — |
+| 27 | — |
+| 28 | — |
+| 29 | — |
+| 30 | — |
+
+---
+
+### 🏷️ Legend
+- 🎬 Kickoff / setup   - 💡 Ideation   - 🌐 Networking   - 🔐 Security   - 📘 Documentation
+- 🛠️ Build / design   - 🏁 Milestone   - 🛌 Rest day   - ☁️ Cloud   - 🔁 Routing protocols
+
+---
+
+<p align="center"><i>Consistency over intensity — one commit, one log, one day at a time.</i></p>
